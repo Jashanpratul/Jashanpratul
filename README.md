@@ -171,7 +171,7 @@ React • Node.js • Firebase
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Large+Language+Models;AI+Agents;Distributed+Systems;Always+Learning.;Always+Building.;Always+Shipping." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Always+Learning.;Always+Building.;Always+Shipping." />
 
 <br><br>
 
