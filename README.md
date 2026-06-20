@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Jashan Pratul
 
-### 🚀 Aspiring AI Engineer • Full Stack Developer • Building Scalable Intelligent Systems
+### Aspiring AI Engineer • Full Stack Developer • Building Scalable Intelligent Systems
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Large+Language+Models;AI+Agents;Distributed+Systems;Building+Products+People+Use;Learning+%E2%80%A2+Building+%E2%80%A2+Shipping" />
 
