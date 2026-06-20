@@ -1,164 +1,160 @@
-<h1 align="center">
-  Hi 👋 I'm Jashan Pratul
-</h1>
+<div align="center">
 
-<h3 align="center">
-Aspiring AI Engineer • Full Stack Developer • Building Scalable Intelligent Systems
-</h3>
+# Hi 👋 I'm Jashan Pratul
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Building+Intelligent+Systems;AI+Engineer+in+Progress;LLMs+%7C+AI+Agents+%7C+Distributed+Systems;Turning+Ideas+Into+Products;Always+Learning.+Always+Shipping." />
+### Building Scalable Intelligent Systems with AI
+
+<p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Large+Language+Models;AI+Agents;Distributed+Systems;Full+Stack+Engineering;Building+Products+People+Use." />
+
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Jashanpratul&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Jashanpratul&style=for-the-badge&color=0e75b6"/>
 
 <img src="https://img.shields.io/github/followers/Jashanpratul?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/Jashanpratul?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-# 🚀 About Me
+# About Me
 
-```python
-class JashanPratul:
+I'm a Computer Science Engineering student passionate about building **AI-powered software**, **LLM applications**, and **scalable backend systems**.
 
-    role = "Aspiring AI Engineer"
+My goal isn't simply to write code.
 
-    passion = [
-        "Artificial Intelligence",
-        "Large Language Models",
-        "AI Agents",
-        "Distributed Systems",
-        "Full Stack Development",
-        "System Design"
-    ]
+I want to engineer intelligent systems that solve meaningful real-world problems.
 
-    mission = "Build scalable intelligent systems that solve real-world problems."
+Currently interested in
 
-    current_status = "Learning • Building • Shipping"
-
-    motto = "Consistency compounds."
-```
-
----
-
-# ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,react,nodejs,express,html,css,firebase,mongodb,mysql,git,github,docker,linux,vscode"/>
-
-</p>
-
----
-
-# 🧠 Currently Exploring
-
+- 🧠 Artificial Intelligence
 - 🤖 AI Agents
-- 🧠 LLM Engineering
 - ⚡ Distributed Systems
-- ☁ Cloud Computing
-- 🐳 Docker
-- ☸ Kubernetes
-- 📈 MLOps
-- 🏗 System Design
+- ☁ Cloud Infrastructure
+- 💻 Backend Engineering
+- 🚀 Product Development
 
 ---
 
-# 🌟 Featured Projects
+# Tech Stack
 
-🚀 AI Root Cause Analysis System
+<div align="center">
 
-🧠 AI Agents (Coming Soon)
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,react,nodejs,express,html,css,mongodb,mysql,firebase,docker,linux,git,github,vscode"/>
 
-⚡ Intelligent Developer Tools
-
-🌍 Full Stack AI Applications
-
-📊 Data & ML Projects
+</div>
 
 ---
 
-# 📈 GitHub Analytics
+# Featured Projects
 
-<p align="center">
+## 🤖 AI Root Cause Analysis System
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jashanpratul&show_icons=true&theme=tokyonight&hide_border=true"/>
+AI-powered distributed system debugging platform.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jashanpratul&layout=compact&theme=tokyonight&hide_border=true"/>
+**Tech**
 
-</p>
+Python
+
+Gemini
+
+NetworkX
+
+Streamlit
 
 ---
 
-# 🔥 GitHub Streak
+## ✋ Hand Tracked 3D Particles
 
-<p align="center">
+Real-time hand tracking using
+
+MediaPipe
+
+Three.js
+
+WebGL
+
+---
+
+## 🚗 Slotify
+
+Decentralized Smart Parking Platform
+
+React
+
+Node.js
+
+Firebase
+
+IoT
+
+---
+
+## 🚀 Upcoming
+
+- AI Coding Assistant
+- Multi-Agent AI System
+- Distributed AI Backend
+- RAG Platform
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jashanpratul&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jashanpratul&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Jashanpratul&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 📊 Contribution Graph
+# Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jashanpratul&theme=tokyo-night"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# Current Learning
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jashanpratul&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
-
----
-
-# 💻 Coding Activity
-
-```text
-Artificial Intelligence      ████████████████░░░
-Backend Development          ██████████████░░░░
-System Design                ███████████░░░░░░
-Open Source                  ████████░░░░░░░░░
-Machine Learning             ████████████░░░░░
+```txt
+Artificial Intelligence
+Large Language Models
+AI Agents
+Distributed Systems
+Docker
+Kubernetes
+Cloud Computing
+System Design
+MLOps
 ```
 
 ---
 
-# 🎯 2026 Goals
+# Connect
 
-- ✅ Build production-ready AI products
-- ✅ Master System Design
-- ✅ Learn Distributed Systems
-- ✅ Contribute to Open Source
-- ✅ Win Hackathons
-- ✅ Land an AI Engineering Internship
-- ✅ Launch my first AI SaaS
+<div align="center">
 
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/jashan-pratul-9bb8a12b1">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:jashanpratul.8b@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -166,27 +162,20 @@ Machine Learning             ████████████░░░░░
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-</p>
+<a href="https://x.com/JashanPratul">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="https://www.instagram.com/jashanpratul/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</div>
 
 ---
 
-<h3 align="center">
+<div align="center">
 
-"Building today what intelligent systems will run tomorrow."
+> *Building today what intelligent systems will run tomorrow.*
 
-</h3>
-
-<!--
-**Jashanpratul/Jashanpratul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
