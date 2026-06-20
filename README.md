@@ -180,3 +180,9 @@ React • Node.js • Firebase
 *Let's build the future together.*
 
 </div>
+---
+## 📌 Featured Work
+
+Explore my pinned repositories below to see production-ready AI, Full Stack, Computer Vision, and Blockchain projects I've built.
+
+⬇️ Scroll down to view them.
