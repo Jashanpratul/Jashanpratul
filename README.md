@@ -131,51 +131,37 @@ React • Node.js • Firebase
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/jashan-pratul-9bb8a12b1/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:jashanpratul.8b@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/Jashanpratul">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://x.com/JashanPratul">
-<img src="https://skillicons.dev/icons?i=twitter" height="48"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/jashanpratul/">
-<img src="https://skillicons.dev/icons?i=instagram" height="48"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jashan-pratul-9bb8a12b1/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+  </a>
+  <a href="mailto:jashanpratul.8b@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="55" />
+  </a>
+  <a href="https://github.com/Jashanpratul" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="55" />
+  </a>
+  <a href="https://x.com/JashanPratul" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="55" />
+  </a>
+  <a href="https://www.instagram.com/jashanpratul/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="55" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
-
 ## 💭 Philosophy
 
-> **"The future belongs to engineers who can combine software, AI, and systems thinking into products that create real-world impact."**
+> **"The future belongs to those who believe in their dreams"**
 
 <br>
 
-## 🚀 Learn • Build • Ship • Repeat
+##  Learn • Build • Ship • Repeat
 
 ### Aspiring AI Engineer • Full Stack Developer
 
