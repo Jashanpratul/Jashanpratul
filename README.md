@@ -4,7 +4,7 @@
 
 ### 🚀 Aspiring AI Engineer • Full Stack Developer • Building Scalable Intelligent Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Large+Language+Models;AI+Agents;Distributed+Systems;Building+Products+People+Use;Learning+%E2%80%A2+Building+%E2%80%A2+Shipping" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Large+Language+Models;AI+Agents;Distributed+Systems;Building+Products+People+Use;Learning+%E2%80%A2+Building+%E2%80%A2+Shipping" />
 
 <br>
 
@@ -12,73 +12,29 @@
 
 <img src="https://img.shields.io/github/followers/Jashanpratul?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/Jashanpratul?affiliations=OWNER&style=for-the-badge"/>
-
 </div>
 
 ---
 
 # 🚀 About Me
 
-```python
-class JashanPratul:
+I'm a **Computer Science Engineering** student passionate about building software powered by **Artificial Intelligence**.
 
-    role = "Aspiring AI Engineer"
+Rather than just writing code, I'm focused on designing **scalable systems**, exploring **LLMs**, building **AI agents**, and creating products that solve real-world problems.
 
-    education = "B.E. Computer Science Engineering"
+### 🎯 Current Focus
 
-    interests = [
-        "Artificial Intelligence",
-        "Large Language Models",
-        "AI Agents",
-        "Distributed Systems",
-        "Backend Engineering",
-        "System Design",
-        "Full Stack Development"
-    ]
-
-    currently_learning = [
-        "LLM Engineering",
-        "Agentic AI",
-        "Cloud Infrastructure",
-        "MLOps",
-        "Distributed Systems"
-    ]
-
-    mission = """
-    Build intelligent software that solves
-    meaningful real-world problems at scale.
-    """
-
-    philosophy = [
-        "Learn",
-        "Build",
-        "Ship",
-        "Repeat"
-    ]
-
-    motto = "Consistency compounds."
-```
+- 🤖 Artificial Intelligence
+- 🧠 Large Language Models
+- ⚡ AI Agents
+- 🌐 Distributed Systems
+- ☁ Cloud Computing
+- 💻 Backend Engineering
+- 🚀 Product Development
 
 ---
 
-# 💡 What I'm Building
-
-🤖 AI-powered Applications
-
-🧠 Large Language Model Projects
-
-⚡ AI Agent Systems
-
-🌐 Full Stack Products
-
-☁ Cloud-native Backend Systems
-
-🚀 Production-ready Intelligent Software
-
----
-
-# ⚙ Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
@@ -92,9 +48,9 @@ class JashanPratul:
 
 ## 🤖 AI Root Cause Analysis System
 
-AI-powered distributed system debugging platform.
+AI-powered distributed system failure investigation platform.
 
-**Tech**
+**Stack**
 
 Python • Gemini • Streamlit • NetworkX
 
@@ -102,31 +58,30 @@ Python • Gemini • Streamlit • NetworkX
 
 ## ✋ Hand Tracked 3D Particles
 
-Real-time computer vision using MediaPipe, Three.js and WebGL.
+Real-time hand tracking with computer vision and WebGL.
 
-**Tech**
+**Stack**
 
-Python • JavaScript • MediaPipe • Three.js
+MediaPipe • Three.js • JavaScript
 
 ---
 
 ## 🚗 Slotify
 
-Decentralized Smart Parking Platform with booking and IoT integration.
+Decentralized smart parking platform with booking, payments and IoT integration.
 
-**Tech**
+**Stack**
 
-React • Node.js • Firebase • IoT
+React • Node.js • Firebase
 
 ---
 
-## 🚀 Upcoming
+## 🚀 Currently Building
 
-- Multi-Agent AI Platform
-- AI Coding Assistant
-- Personal AI Knowledge System
-- RAG Applications
-- Distributed AI Backend
+- 🤖 Multi-Agent AI Systems
+- 🧠 AI Coding Assistant
+- 📚 RAG Applications
+- ⚡ Intelligent Backend Services
 
 ---
 
@@ -156,7 +111,7 @@ React • Node.js • Firebase • IoT
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jashanpratul&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jashanpratul&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -164,31 +119,15 @@ React • Node.js • Firebase • IoT
 
 # 🧠 Currently Learning
 
-```text
-Artificial Intelligence
-██████████████████████████
+<div align="center">
 
-Large Language Models
-████████████████████████░░
+| AI | Backend | Systems |
+|:--:|:--:|:--:|
+| 🤖 AI Agents | ⚡ Node.js | 🌐 Distributed Systems |
+| 🧠 LLM Engineering | ☁ Cloud Computing | 🏗 System Design |
+| 📈 MLOps | 🐳 Docker | ☸ Kubernetes |
 
-AI Agents
-███████████████████████░░░
-
-Distributed Systems
-████████████████████░░░░░░
-
-Docker & Kubernetes
-███████████████████░░░░░░░
-
-Cloud Infrastructure
-██████████████████░░░░░░░░
-
-System Design
-█████████████████████░░░░░
-
-MLOps
-████████████████░░░░░░░░░░
-```
+</div>
 
 ---
 
@@ -196,24 +135,32 @@ MLOps
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jashan-pratul-9bb8a12b1">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/jashan-pratul-9bb8a12b1/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:jashanpratul.8b@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/Jashanpratul">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://x.com/JashanPratul">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=twitter" height="48"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://www.instagram.com/jashanpratul/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="48"/>
 </a>
 
 </div>
@@ -226,11 +173,13 @@ MLOps
 
 > **"The future belongs to engineers who can combine software, AI, and systems thinking into products that create real-world impact."**
 
----
+<br>
 
-### 🚀 Learn • Build • Ship • Repeat
+## 🚀 Learn • Build • Ship • Repeat
 
-### Aspiring AI Engineer • Full Stack Developer • Building Scalable Intelligent Systems
+### Aspiring AI Engineer • Full Stack Developer
+
+### Building Scalable Intelligent Systems
 
 ⭐ Thanks for visiting my profile.
 
