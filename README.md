@@ -155,18 +155,28 @@ React • Node.js • Firebase
 
 ---
 
+<div align="center">
+
 ## 💭 Philosophy
 
-> **"The future belongs to those who believe in their dreams"**
+> **"The future belongs to those who build intelligent systems that solve meaningful real-world problems."**
 
 <br>
 
-##  Learn • Build • Ship • Repeat
+# 🚀 Learn • Build • Ship • Repeat
 
 ### Aspiring AI Engineer • Full Stack Developer
 
 ### Building Scalable Intelligent Systems
 
-⭐ Thanks for visiting my profile.
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Large+Language+Models;AI+Agents;Distributed+Systems;Always+Learning.;Always+Building.;Always+Shipping." />
+
+<br><br>
+
+⭐ **Thanks for visiting my profile!**
+
+*Let's build the future together.*
 
 </div>
