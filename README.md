@@ -181,17 +181,18 @@ React • Node.js • Firebase
 
 </div>
 
-<br>
+<hr>
 
 <h2 align="center">📌 Featured Work</h2>
 
 <p align="center">
-Explore my pinned repositories below showcasing production-ready AI,
-Full Stack, Computer Vision, Blockchain, and System Design projects.
+Explore my pinned repositories showcasing production-ready <b>AI</b>,
+<b>Full Stack</b>, <b>Computer Vision</b>, <b>Blockchain</b>, and
+<b>Distributed Systems</b> projects.
 </p>
 
 <p align="center">
-⬇️ Scroll down to explore them.
+⬇️ <i>Scroll down to explore them.</i>
 </p>
 
-<br>
+<hr>
